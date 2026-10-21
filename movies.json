@@ -1,0 +1,205 @@
+[
+  {
+    "movie_id": 101,
+    "title": "Avatar",
+    "genre": "Sci-Fi",
+    "rating": "PG-13",
+    "duration": 162,
+    "type": "Blockbuster",
+    "metadata": {
+      "director": "James Cameron",
+      "release_year": 2009,
+      "cast_members": [
+        "Sam Worthington",
+        "Zoe Saldana",
+        "Sigourney Weaver"
+      ]
+    }
+  },
+  {
+    "movie_id": 102,
+    "title": "The Avengers",
+    "genre": "Action",
+    "rating": "PG-13",
+    "duration": 143,
+    "type": "Blockbuster",
+    "metadata": {
+      "director": "Joss Whedon",
+      "release_year": 2012,
+      "cast_members": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Scarlett Johansson"
+      ]
+    }
+  },
+  {
+    "movie_id": 103,
+    "title": "Jurassic World",
+    "genre": "Adventure",
+    "rating": "PG-13",
+    "duration": 124,
+    "type": "Blockbuster",
+    "metadata": {
+      "director": "Colin Trevorrow",
+      "release_year": 2015,
+      "cast_members": [
+        "Chris Pratt",
+        "Bryce Dallas Howard",
+        "Irrfan Khan"
+      ]
+    }
+  },
+  {
+    "movie_id": 104,
+    "title": "Top Gun: Maverick",
+    "genre": "Action",
+    "rating": "PG-13",
+    "duration": 130,
+    "type": "Blockbuster",
+    "metadata": {
+      "director": "Joseph Kosinski",
+      "release_year": 2022,
+      "cast_members": [
+        "Tom Cruise",
+        "Miles Teller",
+        "Jennifer Connelly"
+      ]
+    }
+  },
+  {
+    "movie_id": 105,
+    "title": "Black Panther",
+    "genre": "Action",
+    "rating": "PG-13",
+    "duration": 134,
+    "type": "Blockbuster",
+    "metadata": {
+      "director": "Ryan Coogler",
+      "release_year": 2018,
+      "cast_members": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o"
+      ]
+    }
+  },
+  {
+    "movie_id": 106,
+    "title": "The Super Mario Bros. Movie",
+    "genre": "Animation",
+    "rating": "PG",
+    "duration": 92,
+    "type": "Blockbuster",
+    "metadata": {
+      "director": "Aaron Horvath and Michael Jelenic",
+      "release_year": 2023,
+      "cast_members": [
+        "Chris Pratt",
+        "Anya Taylor-Joy",
+        "Charlie Day"
+      ]
+    }
+  },
+  {
+    "movie_id": 107,
+    "title": "Moonlight",
+    "genre": "Drama",
+    "rating": "R",
+    "duration": 111,
+    "type": "Indie",
+    "metadata": {
+      "director": "Barry Jenkins",
+      "release_year": 2016,
+      "cast_members": [
+        "Trevante Rhodes",
+        "André Holland",
+        "Janelle Monáe"
+      ]
+    }
+  },
+  {
+    "movie_id": 108,
+    "title": "Lady Bird",
+    "genre": "Coming-of-age",
+    "rating": "R",
+    "duration": 94,
+    "type": "Indie",
+    "metadata": {
+      "director": "Greta Gerwig",
+      "release_year": 2017,
+      "cast_members": [
+        "Saoirse Ronan",
+        "Laurie Metcalf",
+        "Beanie Feldstein"
+      ]
+    }
+  },
+  {
+    "movie_id": 109,
+    "title": "The Grand Budapest Hotel",
+    "genre": "Comedy",
+    "rating": "R",
+    "duration": 99,
+    "type": "Indie",
+    "metadata": {
+      "director": "Wes Anderson",
+      "release_year": 2014,
+      "cast_members": [
+        "Ralph Fiennes",
+        "Tony Revolori",
+        "Saoirse Ronan"
+      ]
+    }
+  },
+  {
+    "movie_id": 110,
+    "title": "The Florida Project",
+    "genre": "Drama",
+    "rating": "R",
+    "duration": 111,
+    "type": "Indie",
+    "metadata": {
+      "director": "Sean Baker",
+      "release_year": 2017,
+      "cast_members": [
+        "Brooklynn Prince",
+        "Bria Vinaite",
+        "Willem Dafoe"
+      ]
+    }
+  },
+  {
+    "movie_id": 111,
+    "title": "Everything Everywhere All at Once",
+    "genre": "Sci-Fi",
+    "rating": "R",
+    "duration": 139,
+    "type": "Indie",
+    "metadata": {
+      "director": "Daniel Kwan and Daniel Scheinert",
+      "release_year": 2022,
+      "cast_members": [
+        "Michelle Yeoh",
+        "Stephanie Hsu",
+        "Ke Huy Quan"
+      ]
+    }
+  },
+  {
+    "movie_id": 112,
+    "title": "The Lighthouse",
+    "genre": "Psychological Horror",
+    "rating": "R",
+    "duration": 109,
+    "type": "Indie",
+    "metadata": {
+      "director": "Robert Eggers",
+      "release_year": 2019,
+      "cast_members": [
+        "Robert Pattinson",
+        "Willem Dafoe"
+      ]
+    }
+  }
+]
